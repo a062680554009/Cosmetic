@@ -1,0 +1,14 @@
+[
+    {
+        "headline": "Product 1 Headline",
+        "description": "Product 1 Description",
+        "imageUrl": "https://example.com/image1.png",
+        "imageUrl": "https://example.com/image1.png",
+    },
+    {
+        "headline": "Product 2 Headline",
+        "description": "Product 2 Description",
+        "imageUrl": "https://example.com/image2.png",
+        "imageUrl": "https://example.com/image1.png",
+    }
+]
