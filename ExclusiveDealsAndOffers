@@ -2,13 +2,13 @@
     {
         "headline": "Product 1 Headline",
         "description": "Product 1 Description",
-        "imageUrl": "https://example.com/image1.png",
-        "imageUrl": "https://example.com/image1.png",
+        "imageUrl": "https://raw.githubusercontent.com/a062680554009/Cosmetic/main/3.png",
+        "reviewImageUrl": "https://raw.githubusercontent.com/a062680554009/Cosmetic/main/Reviews.png"
     },
     {
         "headline": "Product 2 Headline",
         "description": "Product 2 Description",
-        "imageUrl": "https://example.com/image2.png",
-        "imageUrl": "https://example.com/image1.png",
+        "imageUrl": "https://raw.githubusercontent.com/a062680554009/Cosmetic/main/2.png",
+        "reviewImageUrl": "https://raw.githubusercontent.com/a062680554009/Cosmetic/main/Reviews.png"
     }
 ]
